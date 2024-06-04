@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/logo.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nguyễn Kim - Siêu thị điện máy, điện lạnh giá tốt</title>
+    <meta name="google" content="notranslate" />
+    <meta http-equiv="Content-Language" content="vi" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta property="og:image" content="/logo.png">
+    <script type="module" crossorigin src="/assets/index-_9uItk80.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-5oDGMKO5.css">
+  </head>
+  <body>
+    <div id="root"></div>
+
+    <!-- Start of LiveChat (www.livechat.com) code -->
+    <script type="text/javascript">
+      var _smartsupp = _smartsupp || {};
+      _smartsupp.key = '52ebd30a26fafca3b80ad83cb3da02ee59e57b7f';
+      window.smartsupp||(function(d) {
+        var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
+        s=d.getElementsByTagName('script')[0];c=d.createElement('script');
+        c.type='text/javascript';c.charset='utf-8';c.async=true;
+        c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
+      })(document);
+      </script>
+    <noscript> Powered by <a href=“https://www.smartsupp.com” target=“_blank”>Smartsupp</a></noscript>
+    <!-- End of LiveChat code -->
+  </body>
+</html>
